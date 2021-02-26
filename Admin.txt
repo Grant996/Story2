@@ -1,0 +1,3 @@
+Admin account email: angela@email.com
+
+Admin account password: 123456
